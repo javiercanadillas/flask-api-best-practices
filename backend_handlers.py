@@ -12,7 +12,7 @@ def discovery():
     return jsonify({
         "name": "shipping",
         "version": "1.0",
-        "owners": ["ameerabb", "lonestar"],
+        "owners": ["javiercm", "Venera7"],
         "team": "genAIs",
         "organization": "acme"
     })
